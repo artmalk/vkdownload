@@ -1,4 +1,5 @@
 {
-	"last_vesion": "1.2",
-	"url": ""
+	"version": "1.21",
+	"lastAllow": "1.21",
+	"urlForUpdate": "https://github.com/artmalk/vkdownload/raw/master/downloader_for_vk_v1.21.apk"
 }
